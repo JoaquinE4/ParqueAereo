@@ -33,7 +33,7 @@ const SERVICES = [
   },
 ];
 
-const ACTIVITIES = [
+const ACTIVITIES =  [
   {
     id: 1,
     imgSrc: 'https://placehold.co/400x300/F97316/FFFFFF?text=Reto+Canopy',
